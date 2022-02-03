@@ -34,14 +34,10 @@
 # 기술구현 내용
 
 * 로그인 / 회원가입
-* 제주 액티비티 목록
-* 제주 액티비티 리뷰
-* 제주 숙소 목록
-* 제주 숙소 리뷰
-* 제주 여행 플랜 목록
-* 제주 여행 플랜 리뷰
-* 제주 맛집 목록
-* 제주 맛집 리뷰
+* 제주 액티비티 목록 & 리뷰
+* 제주 숙소 목록 & 리뷰
+* 제주 여행 플랜 목록 & 리뷰
+* 제주 맛집 목록 & 리뷰
 * 마이페이지
 
 # DB ERD
@@ -50,32 +46,29 @@
 
 # 페이지 소개
 
-![1](README.assets/1.png)
+![d](https://user-images.githubusercontent.com/94959080/152354208-64cc2be1-6abf-4701-8d8f-aabd382b8bf7.PNG)
 
-![2](README.assets/2.png)
+![2](https://user-images.githubusercontent.com/94959080/152355504-b5eba70c-5d88-41af-9b60-b2589babe4fb.PNG)
 
-![3](README.assets/3.png)
+![3](https://user-images.githubusercontent.com/94959080/152355542-6b8cf194-3014-4c1a-ac61-7e374dc5ec00.PNG)
 
-![4](README.assets/4.png)
+![4](https://user-images.githubusercontent.com/94959080/152355560-57feb45d-261a-45e6-ba1a-07563b01637a.PNG)
 
-![5](README.assets/5.png)
+![11](https://user-images.githubusercontent.com/94959080/152355575-dc72b447-1fdb-43a8-bf0f-62226d83169b.PNG)
 
-![6](README.assets/6.png)
+![5](https://user-images.githubusercontent.com/94959080/152355602-52cd4efc-30f0-422d-bfd8-3f7fb2e3c4ed.PNG)
 
-![7](README.assets/7.png)
+![6](https://user-images.githubusercontent.com/94959080/152355617-af04f8f8-8958-4031-b46f-4f59b61630e5.PNG)
 
-![8](README.assets/8.png)
+![7](https://user-images.githubusercontent.com/94959080/152355631-a1b1d6d0-7a83-49a8-919d-afc0bf22c17b.PNG)
 
-![9](README.assets/9.png)
+![10](https://user-images.githubusercontent.com/94959080/152355686-6936d458-5a69-453a-9bdd-224862b81807.PNG)
 
-![10](README.assets/10.png)
+![8](https://user-images.githubusercontent.com/94959080/152355642-16c8f7c5-28f7-47fb-ac39-cbf0971f6df1.PNG)
 
-![11](README.assets/11.png)
+![9](https://user-images.githubusercontent.com/94959080/152355661-74676a60-7c2c-4894-b19c-35156289b920.PNG)
 
-![12](README.assets/12.png)
-
-![13](README.assets/13.png)
 
 # 성과
 
-* spring boot와 RESTful api를 적용한 첫번째 프로젝트였고 외부 open api나 NAVER Cloud를 이용한 AI api를 사용해 볼 수 있었기 때문에 개인적으로 많은 도움이 되었다고 생각하고 조원들이 각자의 역할을 잘 수행해 냈기 때문에 시간 대비 만족스로운 결과물을 만들어 냈다고 생각한다.
+* Spring과 MyBatis를 사용한 첫 프로젝트이고, 어려움이 있었지만 팀원들과 소통하며 극복하였고, 개인적으로도 많은 발전이 있었다.
