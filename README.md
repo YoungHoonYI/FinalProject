@@ -1,5 +1,3 @@
-# 영훈2의 파이널프로젝t
-
 # MultiCinema
 
 # 목차
@@ -46,7 +44,7 @@ With Corona시대에 맞춰 지금까지 억눌려 왔던 시민들의 야외 �
 
 # DB ERD
 
-![KakaoTalk_20211129_160903674](README.assets/KakaoTalk_20211129_160903674.png)
+![KakaoTalk_20220113_172528795](https://user-images.githubusercontent.com/94959080/152348995-774d5b07-1960-4532-8b0f-af9bfec4e495.jpg)
 
 # 페이지 소개
 
