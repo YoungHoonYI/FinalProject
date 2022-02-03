@@ -1,4 +1,4 @@
-# MultiCinema
+# Travelanner
 
 # 목차
 
@@ -12,39 +12,41 @@
 
 # 기획의도
 
-With Corona시대에 맞춰 지금까지 억눌려 왔던 시민들의 야외 문화생활에 대한 욕구가 터져나올 것을 기대하며 배우와 영화의 정보를 고객에게 제공하고 간단하게 영화티켓과 음식쿠폰을 구매하는 서비스를 제공하기 위하여 'MultiCinema'라는 영화관 사이트를 기획하게 되었다. 
+코로나 시기에 떠나지 못하는 일상에서 벗어나 여행을 떠난 기분을 느낄 수 있는 여행 플랜 사이트를 만들고자 하였고,
+그 중, 해외여행을 가지 못하는 지금 사람들이 많이 찾는 관광지인 제주도를 지역으로 선정하였다.
 
 # 팀원구성
 
-* 김리영
-* 김원규
-* 도상우
-* 허건희
+* 김수민
+* 안웅선
+* 이영훈
+* 이유빈
+* 조재연
+* 최정원
 
 # 개발환경
 
 * Front-end : javascript / jquery / bootstrap
-* Back-end : java / spring boot
-* DB : Mysql
+* Back-end : java / spring boot / MyBatis
+* DB : Oracle
 * OS : windows 10
 
 # 기술구현 내용
 
-* RESTful api 서버
 * 로그인 / 회원가입
-* 티켓 구매
-* 음식 구매
-* 영화 정보 및 리뷰
-* 배우 정보
-* 고객센터
-* 관리자페이지
+* 제주 액티비티 목록
+* 제주 액티비티 리뷰
+* 제주 숙소 목록
+* 제주 숙소 리뷰
+* 제주 여행 플랜 목록
+* 제주 여행 플랜 리뷰
+* 제주 맛집 목록
+* 제주 맛집 리뷰
 * 마이페이지
-* 카카오페이 결제
-* 챗봇(naver cloud api이용)
 
 # DB ERD
 
-![KakaoTalk_20220113_172528795](https://user-images.githubusercontent.com/94959080/152348995-774d5b07-1960-4532-8b0f-af9bfec4e495.jpg)
+![캡처](https://user-images.githubusercontent.com/94959080/152353543-7cb99128-5230-4e55-826d-fa897e9f5cc9.PNG)
 
 # 페이지 소개
 
